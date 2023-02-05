@@ -1,6 +1,6 @@
 # Deep Learning Project
 
-DEpp Learning group project regarding Semantic Segmentation of a high-resolution multispectral dataset.
+Deep Learning group project regarding Semantic Segmentation of a high-resolution multispectral dataset.
 
 Dataset GitHub repository: https://github.com/rmkemker/RIT-18
 
